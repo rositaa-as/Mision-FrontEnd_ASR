@@ -29,7 +29,7 @@ En esta práctica se hizo la clonación de la [página web](https://github.com/L
 
 [Aquí puedes ver mi trabajo](https://github.com/rositaa-as/Mision-FrontEnd_ASR/tree/Css-ASR/css_ASRMG)
 
-## [Uso de JS](#)
+## Uso de JS
 Creación de un pokedex, maquetación realizada con HTML5, diseño con CSS3 y el uso de JavaScript para su funcionamiento. [Ver práctica](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/04%20-%20JS/practica#pr%C3%A1ctica-js)
 
 [Aquí puedes ver mi trabajo](https://github.com/rositaa-as/Mision-FrontEnd_ASR/tree/js/Practica%20Js)
